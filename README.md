@@ -1,2 +1,2 @@
 # engine3d-physics
-Engine3D Physics Engine that can be used with or without Engine3D to do physics-related tasks even if users do not have a GPU.
+Physics engine that can be used for Engine3D or without Engine3D. Still need some work to be done.
